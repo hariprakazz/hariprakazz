@@ -36,7 +36,6 @@ languages  →  C · C++ · Python · D · Java
 tools      →  Git · Dub · Ninja · Streamlit · n8n
 learning   →  full stack · app dev · bug bounty
 ```
-
 ## links
 
 [LinkedIn](https://www.linkedin.com/in/hariprakash-v-949634376) · hariprakash4389285@gmail.com
