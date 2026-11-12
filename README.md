@@ -2,7 +2,7 @@
 
 # Hariprakash V
 
-CSE @ SKCET · Diploma in Data Science @ IIT Madras · GSoC 2026
+CSE @ SKCET · BS in Data Science @ IIT Madras · GSoC 2026
 
 </div>
 
@@ -31,20 +31,16 @@ AI tool that preserves conversation context across sessions and tools.
 
 ## stack
 
-languages → C · C++ · Python · D · Java
+languages → C · C++ · Python · D · Java , GO, Rust
 
 tools → Git · Dub · Ninja · Streamlit · n8n
-
-learning → full stack · app dev · bug bounty
 
 ---
 
 ## links
 
-[LinkedIn](https://www.linkedin.com/in/hariprakash-v-949634376) · hariprakash4389285@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hariprakash-v-949634376) · 
 
 ---
 
-<div align="center">
-<i>one line of code can change ones lifestyle</i>
-</div>
+
