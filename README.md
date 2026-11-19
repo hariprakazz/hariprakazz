@@ -2,7 +2,7 @@
 
 # Hariprakash V
 
-CSE @ SKCET · BS in Data Science @ IIT Madras · GSoC 2026
+CSE @ SKCET · BS in Data Science @ IIT Madras · GSoC 2026 @ Dlang
 
 </div>
 
