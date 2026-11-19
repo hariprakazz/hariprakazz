@@ -31,7 +31,7 @@ AI tool that preserves conversation context across sessions and tools.
 
 ## stack
 
-languages → C · C++ · Python · D · Java , GO, Rust
+languages → C · C++ · Python · D · Java , Go, Rust
 
 tools → Git · Dub · Ninja · Streamlit · n8n
 
